@@ -7,6 +7,9 @@ and this is ***bold italics***
 --------
 
 Take me to (apple web site)(http://www.apple.com)
+we havea image ![marvel thor](01thor.jpg)
+
+
 
 a new paragraph<br>with two lines.
 #### smallest
